@@ -2,9 +2,7 @@ let boxes=document.querySelectorAll(".box");
 let re=document.querySelector("#reset");
 let newGa=document.querySelector(".newButton");
 let me=document.querySelector(".message"); 
-
 let turn0=true;
-
 const winPatterns=
 [
     [0,1,2],
